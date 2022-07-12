@@ -15,3 +15,10 @@ body {
 .subtitulo {
   opacity: 0.78;
 }
+
+.minititulo {
+  text-transform: uppercase;
+  font-family: "Bahnschrift", monospace;
+  letter-spacing: 4px;
+  font-weight: bold;
+}
